@@ -1,0 +1,15 @@
+Improvements
+16 aug
+1. Create a new folder
+2. Field validator for city + occupation feature
+3. Add routes
+    a. Home 
+    b. Health check
+4. Add model version
+5. Separation of logic
+    a. Pydantic model(Schema folder)
+    b. City tier
+    C. ML logic
+6. Try catch
+7. Add confidence score
+8. Response Model
