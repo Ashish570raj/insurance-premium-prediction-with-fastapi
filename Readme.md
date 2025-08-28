@@ -13,8 +13,8 @@ The application can be accessed via REST API endpoints as well as a simple UI fo
 
 * [Features](#-features)
 * [Project Structure](#-project-structure)
-* [Installation](#-installation)
-* [Usage](#-usage)
+* [Installation](#-Installation)
+* [Usage](#-Usage)
 * [API Endpoints](#-api-endpoints)
 * [Example](#-example)
 * [Dependencies](#-dependencies)
