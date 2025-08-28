@@ -61,7 +61,6 @@ insurance-premium-prediction-with-fastapi/
 │── Readme.md               # Project documentation
 
 ```
-
 ---
 
 ## ⚙️ Installation
@@ -95,21 +94,6 @@ insurance-premium-prediction-with-fastapi/
 
 ---
 
-## 🚀 Usage
-
-* Once the server is running, open your browser and navigate to:
-
-  * **Swagger UI:** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-  * **Redoc UI:** [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
-
-* Alternatively, run the UI script:
-
-  ```bash
-  python ui.py
-  ```
-
----
-
 ## 📡 API Endpoints
 
 | Method | Endpoint   | Description      |
@@ -117,16 +101,6 @@ insurance-premium-prediction-with-fastapi/
 | GET    | `/`        | Home endpoint    |
 | GET    | `/health`  | Health check API |
 | POST   | `/predict` | Predict premium  |
-
-
----
-
-## 🧪 Example
-
-Got it ✅ Thanks for sharing the **updated request schema**!
-Your `UserInput` model now includes fields like **weight, height, income, city, and occupation** instead of the earlier BMI/region/sex-based schema.
-
-Here’s the revised **Example section** for the README:
 
 ---
 
