@@ -13,8 +13,8 @@ The application can be accessed via REST API endpoints as well as a simple UI fo
 
 * [Features](#-features)
 * [Project Structure](#-project-structure)
-* [Installation](#-Installation)
-* [Usage](#-Usage)
+* [Installation](#️-installation)
+* [Usage](#-usage)
 * [API Endpoints](#-api-endpoints)
 * [Example](#-example)
 * [Dependencies](#-dependencies)
@@ -23,7 +23,7 @@ The application can be accessed via REST API endpoints as well as a simple UI fo
 
 ---
 
-## ✨ Features
+## Features
 
 * Predict insurance premium using trained ML model.
 * REST API built with **FastAPI**.
@@ -34,7 +34,7 @@ The application can be accessed via REST API endpoints as well as a simple UI fo
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 insurance-premium-prediction-with-fastapi/
@@ -63,7 +63,7 @@ insurance-premium-prediction-with-fastapi/
 ```
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
@@ -94,7 +94,7 @@ insurance-premium-prediction-with-fastapi/
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint   | Description      |
 | ------ | ---------- | ---------------- |
@@ -104,7 +104,7 @@ insurance-premium-prediction-with-fastapi/
 
 ---
 
-## 🧪 Example
+## Example
 
 **Request (POST /predict):**
 
@@ -135,7 +135,7 @@ insurance-premium-prediction-with-fastapi/
 ```
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 All dependencies are listed in `requirements.txt`. Key libraries include:
 
@@ -148,13 +148,13 @@ All dependencies are listed in `requirements.txt`. Key libraries include:
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 * **Ashish Raj** 
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
