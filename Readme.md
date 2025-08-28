@@ -11,15 +11,15 @@ The application can be accessed via REST API endpoints as well as a simple UI fo
 
 ## 📑 Table of Contents
 
-* [Features](#features)
-* [Project Structure](#project-structure)
-* [Installation](#installation)
-* [Usage](#usage)
-* [API Endpoints](#api-endpoints)
-* [Example](#example)
-* [Dependencies](#dependencies)
-* [Contributors](#contributors)
-* [License](#license)
+* [Features](#-features)
+* [Project Structure](#-project-structure)
+* [Installation](#-installation)
+* [Usage](#-usage)
+* [API Endpoints](#-api-endpoints)
+* [Example](#-example)
+* [Dependencies](#-dependencies)
+* [Contributors](#-contributors)
+* [License](#-license)
 
 ---
 
